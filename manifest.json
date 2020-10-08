@@ -1,0 +1,21 @@
+{
+    "name" : "My budget",
+    "short_name" :"My app",
+    "start_url" : ".",
+    "background_color": "#fff",
+    "theme_color": "#34006a",
+    "display": "standalone",
+    "icons": [
+        {
+          "src": "icon/logo64.png",
+          "type": "image/png",
+          "sizes": "64x64"
+        },
+        {
+          "src": "icon/logo512.png",
+          "type": "image/png",
+          "sizes": "512x512"
+        }
+    ]
+
+}
