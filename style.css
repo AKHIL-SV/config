@@ -41,7 +41,7 @@ input[type=number] {
 .budget-container{
     position: absolute;
     width: 360px;
-    height: 780px;
+    height: 778px;
     top: 50%;
     left: 50%;
     transform: translateX(-50%) translateY(-50%);
@@ -222,6 +222,7 @@ input[type=number] {
 }
 
 .budget-dashboard #all ul.list li.income{
+    color: #13c903;
 
 }
 .budget-dashboard #all ul.list li.expense{
@@ -409,6 +410,7 @@ input[type=number] {
     margin-bottom: 10px;;
     word-wrap: break-word;
     font-family: 'Gilroy Bold';
+    color: #13c903;
 }
 
 .budget-dashboard #income ul.list li #edit{
