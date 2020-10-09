@@ -79,7 +79,7 @@
           window.addEventListener('load', ()=> {
             navigator
             .serviceWorker
-            .register('sw.js')
+            .register('/budget-app/sw.js')
             .then(()=>console.log("Ready."))
             .catch(()=>console.log("Err..."));
           });
