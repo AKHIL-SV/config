@@ -1,6 +1,6 @@
 if ("serviceWorker" in navigator) {
     // register service worker
-    navigator.serviceWorker.register("./sw.js");
+    navigator.serviceWorker.register("/sw.js");
   }
 
 // SELECT CHART ELEMENT
