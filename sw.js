@@ -3,15 +3,13 @@ var filesToCache = [
   '/',
   '/index.html',
   '/style.css',
-  '/budget.js',
+  '/js/budget.js',
   '/js/chart.js',
   '/icon/edit.png',
-  '/icon/logo64.png',
-  '/icon/logo512.png',
   '/icon/plus.png',
   '/icon/trash.png',
   '/font/Gilroy-Bold.woff',
-  '/font/Gilroy-Regular.woff',
+  '/font/Gilroy-Regular.woff'
 ];
 
 /* Start the service worker and cache all of the app's content */
