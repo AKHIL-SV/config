@@ -1,17 +1,17 @@
 var cacheName = 'hello-pwa';
 var filesToCache = [
-  '/',
-  'index.html',
-  'style.css',
-  'js/budget.js',
-  'js/chart.js',
-  'icon/edit.png',
-  'icon/logo64.png',
-  'icon/logo512.png',
-  'icon/plus.png',
-  'icon/trash.png',
-  'font/Gilroy-Bold.woff',
-  'font/Gilroy-Regular.woff',
+  '/budget-app/',
+  '/budget-app/index.html',
+  '/budget-app/style.css',
+  '/budget-app/budget.js',
+  '/budget-app/js/chart.js',
+  '/budget-app/icon/edit.png',
+  '/budget-app/icon/logo64.png',
+  '/budget-app/icon/logo512.png',
+  '/budget-app/icon/plus.png',
+  '/budget-app/icon/trash.png',
+  '/budget-app/font/Gilroy-Bold.woff',
+  '/budget-app/font/Gilroy-Regular.woff',
 ];
 
 /* Start the service worker and cache all of the app's content */
