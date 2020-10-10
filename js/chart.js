@@ -1,11 +1,11 @@
-window.onload = () =>{
-     'use strict';
-    if ('serviceWorker' in navigator) {
+// window.onload = () =>{
+//      'use strict';
+//     if ('serviceWorker' in navigator) {
          
-            navigator .serviceWorker
-            .register('/sw.js');
-    }
-}
+//             navigator .serviceWorker
+//             .register('/sw.js');
+//     }
+// }
 // SELECT CHART ELEMENT
 const chart = document.querySelector(".chart");
 
